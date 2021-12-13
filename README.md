@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# 7: Generando el build de producción y despliegues en github page
+    ¿Qué veremos en esta sección?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+    Aprender cómo realizar backups a repositorios de Git
 
-## Available Scripts
+    Subir nuestro repositorio a GitHub
 
-In the project directory, you can run:
+    Uso de Github Pages
 
-### `npm start`
+    Desplegar nuestra aplicación de React
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# 8: Testing - Probando la aplicación de GifExpert
+    ¿Qué veremos en esta sección?
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+    Seguir el camino de las pruebas
 
-### `npm test`
+    Pruebas en componentes específicos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    Pruebas en componentes de forma individual
 
-### `npm run build`
+    Pruebas con customHooks
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    Esperar cambios en un customHook
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    Simular eventos en inputs y formularios
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    Simular llamadas a funciones
 
-### `npm run eject`
+    Evaluar si existen elementos en el componente
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# 9 PROFUNDIZANDO HOOKS GENERALES
+    ¿Qué veremos en esta sección?
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    Profundizar en el tema de los Hooks
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+    Crear otros customHooks
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+    useState
 
-## Learn More
+    useCounter - Personalizado
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    useEffect y sus precauciones
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+    useRef
 
-### Code Splitting
+    useFetch - Personalizado + optimizaciones
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+    useLayoutEffect
 
-### Analyzing the Bundle Size
+    Memo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+    useMemo
 
-### Making a Progressive Web App
+    useCallback
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# 10. SECCION: PROFUNDIZANDO HOOKS - USEREDUCER
+    ¿Qué veremos en esta sección?
 
-### Advanced Configuration
+    useReducer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+    Reducers
 
-### Deployment
+    Teoría de un reducer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+    Aplicación de TODOs
 
-### `npm run build` fails to minify
+    CRUD local
+# 11. SECCION: PROFUNDIZANDO HOOKS - USECONTEXT
+# 12. SECCION: PRUEBAS UNITARIAS Y DE INTEGRACIÓN - HOOKS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+# 1. CURSO UDEMY-React: De cero a experto (Hooks y MERN) | 8 HRS
+    - 9. SECCION: PROFUNDIZANDO HOOKS - GENERALES | 2 HRS
+    - 10. SECCION: PROFUNDIZANDO HOOKS - USEREDUCER | 2 HRS
+    - 11. SECCION: PROFUNDIZANDO HOOKS - USECONTEXT| 1HRS
+    - 12. SECCION: PRUEBAS UNITARIAS Y DE INTEGRACIÓN - HOOKS | 3 HRS
+
+
+
+Los Hooks son funciones 
+Los Effects son Hokks secundarios que son funciones 
+
+
+REDUCER = función, función pura solucion interna, retornar un estado  
